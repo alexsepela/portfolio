@@ -975,7 +975,7 @@ a+.breadcrumbs {
 
 .doc .colist>table code, .doc p code, .doc thead code {
     color: #222;
-    background: #fafafa;
+    background: #f3f3f3;
     border-radius: .25em;
     font-size: .95em;
     padding: .125em .25em
@@ -1108,7 +1108,7 @@ a+.breadcrumbs {
 }
 
 .doc table.stripes-all>tbody>tr, .doc table.stripes-even>tbody>tr:nth-of-type(2n), .doc table.stripes-hover>tbody>tr:hover, .doc table.stripes-odd>tbody>tr:nth-of-type(odd) {
-    background: #fafafa
+    background: #f3f3f3
 }
 
 .doc table.tableblock>tfoot {
@@ -1164,7 +1164,7 @@ a+.breadcrumbs {
 
 .doc .admonitionblock td.content {
     padding: 1rem 1rem .75rem;
-    background: #fafafa;
+    background: #f3f3f3;
     width: 100%;
     word-wrap: anywhere
 }
@@ -1273,7 +1273,7 @@ a+.breadcrumbs {
 }
 
 .doc .quoteblock, .doc .verseblock {
-    background: #fafafa;
+    background: #f3f3f3;
     border-left: 5px solid #5d5d5d;
     color: #5d5d5d
 }
@@ -1504,7 +1504,7 @@ a+.breadcrumbs {
 }
 
 .doc .sidebarblock {
-    background: #e1e1e1;
+    background: #f3f3f3;
     border-radius: .75rem;
     padding: .75rem 1.5rem
 }
@@ -1526,7 +1526,7 @@ a+.breadcrumbs {
 }
 
 .doc .listingblock pre:not(.highlight), .doc .literalblock pre, .doc pre.highlight code {
-    background: #fafafa;
+    background: #f3f3f3;
     -webkit-box-shadow: inset 0 0 1.75px #e1e1e1;
     box-shadow: inset 0 0 1.75px #e1e1e1;
     display: block;
